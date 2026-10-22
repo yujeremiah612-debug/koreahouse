@@ -1,0 +1,8 @@
+{
+  "name": "Korea House Korean Cuisine & Sushi",
+  "description": "Authentic Korean cuisine, Korean BBQ, and fresh Japanese sushi in Dallas, TX. Serving traditional flavors since 1979 at 2598 Royal Lane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
